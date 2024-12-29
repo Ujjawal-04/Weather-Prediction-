@@ -1,0 +1,1001 @@
+Date,City,Temperature (°C),Humidity (%),Pressure (hPa),Wind Speed (km/h),Rainfall (mm),Weather Condition
+2024-12-22,Chennai,24.1,81,1013,20,11.3,Thunderstorms
+2024-12-13,Ahmedabad,32.6,55,1005,15,11.1,Partly Cloudy
+2024-12-01,Hyderabad,26.6,59,1024,12,6.3,Clear
+2024-12-26,Hyderabad,25.6,79,1016,13,3.2,Partly Cloudy
+2024-12-03,Hyderabad,31.8,82,1012,9,2.6,Rain
+2024-12-24,Pune,33.2,56,1009,16,0.7,Cloudy
+2024-12-18,Mumbai,21.2,90,1005,16,3.6,Clear
+2024-12-17,Ahmedabad,26.3,70,1014,10,8.1,Cloudy
+2024-12-15,Jaipur,27.6,89,1021,14,8.4,Cloudy
+2024-11-30,Kochi,20.3,53,1012,20,13.0,Cloudy
+2024-12-12,Chennai,30.6,89,1006,15,5.7,Rain
+2024-12-02,Chennai,32.1,55,1017,11,7.1,Clear
+2024-12-15,Delhi,32.9,56,1019,16,11.4,Thunderstorms
+2024-12-14,Kolkata,24.0,56,1020,20,11.6,Heavy Rain
+2024-12-23,Chennai,30.3,78,1016,8,6.7,Thunderstorms
+2024-12-04,Delhi,25.7,53,1023,5,11.3,Thunderstorms
+2024-12-24,Bangalore,21.5,61,1014,15,9.2,Clear
+2024-12-21,Hyderabad,20.7,84,1007,11,10.6,Heavy Rain
+2024-12-15,Ahmedabad,25.6,57,1019,17,6.9,Rain
+2024-12-08,Hyderabad,29.7,66,1014,11,13.6,Rain
+2024-11-29,Chennai,32.2,90,1020,12,5.5,Partly Cloudy
+2024-12-28,Ahmedabad,29.9,71,1025,10,14.5,Rain
+2024-12-16,Kolkata,34.5,83,1012,6,9.5,Rain
+2024-12-21,Chennai,27.0,51,1020,20,0.6,Thunderstorms
+2024-12-23,Bangalore,27.1,56,1005,16,6.8,Clear
+2024-12-29,Pune,29.8,50,1008,10,10.3,Thunderstorms
+2024-12-24,Chennai,30.1,63,1005,9,0.1,Rain
+2024-12-19,Pune,21.0,87,1005,10,6.0,Heavy Rain
+2024-12-03,Kolkata,34.5,87,1017,13,8.8,Thunderstorms
+2024-12-13,Bangalore,34.8,85,1016,6,2.8,Partly Cloudy
+2024-12-02,Chennai,28.8,77,1006,20,9.4,Heavy Rain
+2024-12-15,Pune,32.5,59,1021,16,5.0,Thunderstorms
+2024-12-02,Bangalore,29.4,53,1012,14,4.7,Rain
+2024-12-28,Hyderabad,32.0,65,1008,18,3.3,Rain
+2024-11-30,Chennai,33.3,52,1016,19,9.7,Thunderstorms
+2024-12-13,Delhi,29.2,66,1015,17,5.3,Cloudy
+2024-12-29,Kochi,31.8,52,1016,16,9.1,Thunderstorms
+2024-12-27,Hyderabad,22.7,82,1015,18,0.8,Partly Cloudy
+2024-12-23,Chennai,20.8,73,1018,20,7.3,Clear
+2024-12-22,Kochi,34.5,58,1013,17,12.1,Rain
+2024-12-21,Kochi,30.8,85,1005,8,4.7,Clear
+2024-12-20,Chennai,28.1,85,1021,19,4.9,Partly Cloudy
+2024-12-26,Chennai,33.6,70,1007,10,7.8,Clear
+2024-12-23,Ahmedabad,20.8,65,1020,14,1.5,Rain
+2024-12-07,Jaipur,23.4,83,1021,6,14.6,Heavy Rain
+2024-12-13,Jaipur,22.0,61,1011,19,14.3,Heavy Rain
+2024-11-29,Mumbai,30.7,61,1009,18,7.2,Cloudy
+2024-12-13,Ahmedabad,20.6,55,1011,10,1.7,Cloudy
+2024-12-24,Delhi,29.5,65,1021,10,4.9,Rain
+2024-11-30,Bangalore,33.2,56,1005,20,7.6,Heavy Rain
+2024-12-19,Delhi,20.6,52,1011,16,2.9,Cloudy
+2024-12-21,Bangalore,26.7,71,1017,5,6.7,Rain
+2024-12-01,Chennai,26.4,90,1021,14,6.9,Thunderstorms
+2024-11-30,Mumbai,25.0,76,1013,9,13.4,Cloudy
+2024-11-30,Delhi,21.2,60,1022,8,9.5,Clear
+2024-12-23,Chennai,24.2,80,1012,11,4.4,Thunderstorms
+2024-12-07,Kochi,21.1,69,1018,20,8.3,Rain
+2024-12-29,Pune,21.4,63,1007,14,2.8,Partly Cloudy
+2024-12-28,Hyderabad,31.6,57,1015,17,7.0,Thunderstorms
+2024-12-11,Ahmedabad,29.4,69,1025,5,9.3,Partly Cloudy
+2024-12-03,Hyderabad,32.7,75,1014,9,12.2,Rain
+2024-12-01,Kochi,29.6,85,1018,10,1.8,Clear
+2024-12-18,Hyderabad,22.5,88,1015,10,10.0,Partly Cloudy
+2024-12-10,Chennai,29.3,70,1011,5,12.8,Partly Cloudy
+2024-12-21,Chennai,33.9,58,1023,9,0.9,Rain
+2024-12-13,Mumbai,23.9,64,1008,15,10.2,Partly Cloudy
+2024-12-07,Kolkata,20.7,88,1009,17,1.4,Rain
+2024-12-18,Mumbai,33.6,90,1010,10,3.7,Clear
+2024-12-02,Hyderabad,21.5,85,1018,9,6.5,Cloudy
+2024-12-20,Chennai,30.2,68,1024,10,0.9,Partly Cloudy
+2024-12-22,Pune,22.9,57,1014,6,14.6,Heavy Rain
+2024-12-17,Hyderabad,31.4,76,1010,15,4.2,Thunderstorms
+2024-12-28,Mumbai,29.7,70,1017,19,5.8,Thunderstorms
+2024-12-27,Hyderabad,26.2,57,1017,17,2.2,Clear
+2024-12-15,Pune,23.1,68,1017,16,0.2,Heavy Rain
+2024-12-15,Mumbai,30.8,66,1020,18,11.5,Partly Cloudy
+2024-12-08,Bangalore,22.8,80,1025,5,9.4,Cloudy
+2024-12-04,Kolkata,29.3,52,1023,7,11.8,Clear
+2024-12-14,Hyderabad,24.9,62,1015,8,13.4,Thunderstorms
+2024-12-14,Chennai,21.6,79,1009,11,0.6,Heavy Rain
+2024-12-04,Mumbai,28.7,84,1019,20,0.7,Cloudy
+2024-12-04,Jaipur,35.0,61,1005,20,13.3,Rain
+2024-12-10,Pune,27.6,73,1020,13,9.1,Heavy Rain
+2024-12-15,Chennai,20.1,50,1021,15,2.5,Cloudy
+2024-12-06,Chennai,23.8,69,1017,18,10.0,Partly Cloudy
+2024-12-26,Ahmedabad,22.4,66,1005,8,7.9,Heavy Rain
+2024-12-16,Jaipur,31.0,68,1010,5,7.6,Rain
+2024-11-29,Hyderabad,24.5,89,1020,9,6.6,Partly Cloudy
+2024-12-03,Jaipur,25.0,63,1022,17,2.7,Rain
+2024-12-15,Chennai,23.4,82,1016,18,0.3,Partly Cloudy
+2024-12-17,Bangalore,31.8,79,1009,5,13.5,Heavy Rain
+2024-12-10,Hyderabad,30.1,64,1012,7,14.5,Heavy Rain
+2024-12-04,Kochi,30.5,89,1014,5,10.1,Cloudy
+2024-12-16,Mumbai,29.3,68,1023,15,6.4,Rain
+2024-12-20,Jaipur,26.5,85,1021,20,3.5,Cloudy
+2024-12-01,Kochi,21.7,53,1024,5,0.9,Partly Cloudy
+2024-12-11,Pune,28.6,70,1009,17,9.6,Partly Cloudy
+2024-12-26,Kochi,25.7,68,1021,6,3.0,Rain
+2024-12-24,Pune,21.3,71,1020,14,12.5,Rain
+2024-12-14,Delhi,25.6,50,1007,7,8.0,Clear
+2024-12-20,Delhi,24.3,81,1022,5,3.8,Cloudy
+2024-12-23,Bangalore,26.9,82,1013,8,3.6,Cloudy
+2024-12-13,Pune,29.2,51,1012,8,4.9,Heavy Rain
+2024-12-14,Ahmedabad,20.5,84,1024,7,7.1,Cloudy
+2024-12-02,Kochi,20.4,87,1020,9,10.4,Rain
+2024-12-16,Kolkata,21.5,76,1024,17,12.7,Cloudy
+2024-12-06,Bangalore,26.4,52,1016,16,5.4,Heavy Rain
+2024-12-02,Ahmedabad,33.4,72,1017,18,7.8,Thunderstorms
+2024-12-18,Kolkata,29.2,56,1019,13,13.2,Thunderstorms
+2024-12-05,Delhi,28.1,90,1022,18,12.4,Rain
+2024-12-17,Pune,22.6,84,1008,12,13.9,Thunderstorms
+2024-12-22,Bangalore,29.1,89,1009,19,5.1,Cloudy
+2024-12-10,Delhi,22.3,54,1023,17,13.4,Cloudy
+2024-12-14,Kochi,25.3,82,1020,12,3.1,Heavy Rain
+2024-12-06,Hyderabad,25.2,87,1022,9,10.0,Clear
+2024-12-06,Ahmedabad,23.4,76,1014,7,6.2,Thunderstorms
+2024-12-17,Hyderabad,31.3,60,1025,8,1.5,Cloudy
+2024-12-25,Delhi,27.8,90,1009,14,11.7,Clear
+2024-12-15,Mumbai,26.3,79,1010,8,8.6,Thunderstorms
+2024-12-25,Bangalore,23.1,72,1009,6,7.6,Heavy Rain
+2024-11-29,Chennai,25.0,62,1020,9,9.1,Clear
+2024-12-01,Hyderabad,27.0,61,1024,15,8.7,Partly Cloudy
+2024-12-03,Mumbai,31.3,59,1014,14,7.7,Clear
+2024-12-21,Delhi,30.5,86,1005,19,2.6,Cloudy
+2024-12-11,Ahmedabad,33.5,75,1011,8,10.7,Cloudy
+2024-12-28,Jaipur,27.6,87,1015,6,9.2,Clear
+2024-12-20,Bangalore,29.5,89,1008,15,4.0,Cloudy
+2024-12-21,Jaipur,29.1,73,1024,5,3.1,Partly Cloudy
+2024-12-14,Ahmedabad,34.3,71,1005,17,10.6,Cloudy
+2024-12-18,Delhi,20.3,85,1024,20,7.9,Heavy Rain
+2024-12-16,Mumbai,26.0,73,1025,18,0.7,Partly Cloudy
+2024-12-13,Mumbai,29.4,50,1019,19,9.6,Clear
+2024-12-28,Delhi,21.4,62,1010,17,12.5,Heavy Rain
+2024-12-02,Kolkata,34.3,61,1014,5,9.3,Cloudy
+2024-12-15,Jaipur,20.0,67,1024,20,6.1,Partly Cloudy
+2024-12-22,Delhi,28.4,58,1016,20,4.4,Cloudy
+2024-12-16,Bangalore,21.5,73,1008,15,1.6,Cloudy
+2024-11-30,Kochi,25.5,90,1014,20,11.7,Rain
+2024-12-18,Bangalore,34.1,72,1022,19,4.2,Partly Cloudy
+2024-12-01,Chennai,25.2,57,1016,5,0.4,Rain
+2024-12-13,Ahmedabad,22.5,50,1024,11,4.5,Partly Cloudy
+2024-12-22,Jaipur,26.2,70,1022,10,10.4,Rain
+2024-12-27,Kochi,34.9,60,1008,18,6.7,Clear
+2024-12-11,Kolkata,31.3,63,1024,20,6.9,Thunderstorms
+2024-12-24,Mumbai,30.6,68,1020,20,6.1,Rain
+2024-12-03,Hyderabad,23.0,54,1009,8,2.0,Clear
+2024-11-30,Kochi,26.3,66,1015,20,13.6,Clear
+2024-11-29,Jaipur,34.5,87,1023,16,0.2,Cloudy
+2024-12-19,Delhi,23.8,60,1019,14,12.0,Clear
+2024-12-19,Ahmedabad,28.6,85,1018,8,7.4,Clear
+2024-12-19,Ahmedabad,28.4,68,1006,17,0.7,Clear
+2024-12-23,Chennai,20.6,66,1018,7,9.0,Thunderstorms
+2024-12-19,Jaipur,29.2,81,1007,15,15.0,Heavy Rain
+2024-12-24,Bangalore,24.7,56,1011,12,3.9,Cloudy
+2024-12-19,Kochi,23.5,51,1011,6,12.2,Heavy Rain
+2024-12-25,Bangalore,31.1,87,1019,13,13.8,Cloudy
+2024-12-04,Mumbai,32.4,63,1008,16,2.7,Partly Cloudy
+2024-12-15,Mumbai,20.4,77,1011,18,5.7,Clear
+2024-12-25,Jaipur,34.5,54,1005,9,1.2,Heavy Rain
+2024-12-14,Ahmedabad,27.0,89,1015,19,9.2,Cloudy
+2024-12-20,Hyderabad,28.4,85,1019,13,6.4,Cloudy
+2024-12-26,Delhi,26.8,87,1009,16,7.6,Heavy Rain
+2024-12-18,Kochi,24.1,68,1019,9,4.2,Rain
+2024-12-15,Mumbai,29.0,74,1007,11,14.9,Thunderstorms
+2024-12-09,Delhi,29.6,83,1017,19,5.1,Partly Cloudy
+2024-12-19,Hyderabad,27.3,65,1006,20,1.3,Rain
+2024-12-19,Kolkata,31.7,74,1006,5,2.3,Cloudy
+2024-12-26,Kochi,24.3,74,1013,18,3.6,Clear
+2024-12-05,Delhi,30.0,83,1019,12,5.0,Heavy Rain
+2024-12-29,Bangalore,21.7,86,1006,7,12.5,Clear
+2024-12-27,Jaipur,29.6,89,1010,20,0.6,Cloudy
+2024-12-10,Pune,30.7,58,1012,17,1.6,Partly Cloudy
+2024-12-19,Mumbai,30.5,50,1010,8,7.2,Clear
+2024-12-05,Pune,25.6,57,1008,16,7.3,Rain
+2024-12-15,Hyderabad,26.0,61,1013,16,4.8,Rain
+2024-12-14,Jaipur,25.4,87,1007,8,8.3,Rain
+2024-11-30,Jaipur,28.1,53,1008,18,7.1,Thunderstorms
+2024-12-10,Jaipur,25.7,64,1021,20,5.9,Thunderstorms
+2024-11-29,Mumbai,32.1,60,1014,7,14.8,Clear
+2024-12-21,Ahmedabad,22.7,68,1011,16,1.0,Cloudy
+2024-12-16,Kolkata,35.0,51,1017,12,7.0,Thunderstorms
+2024-12-21,Hyderabad,28.5,60,1015,13,9.7,Clear
+2024-12-06,Bangalore,32.9,89,1020,11,8.0,Cloudy
+2024-12-23,Pune,31.2,81,1014,5,2.2,Rain
+2024-12-03,Kolkata,23.4,81,1015,19,9.8,Clear
+2024-12-14,Kolkata,20.3,66,1019,7,6.7,Clear
+2024-11-29,Kolkata,30.2,51,1021,15,0.9,Heavy Rain
+2024-12-21,Chennai,20.3,80,1019,12,2.7,Thunderstorms
+2024-12-01,Delhi,32.5,74,1022,20,5.3,Clear
+2024-12-08,Chennai,28.6,79,1024,15,9.4,Rain
+2024-12-28,Delhi,24.9,75,1017,19,8.2,Rain
+2024-12-18,Ahmedabad,28.2,75,1023,12,5.1,Thunderstorms
+2024-12-21,Pune,32.6,53,1012,8,4.6,Cloudy
+2024-12-24,Mumbai,21.3,66,1005,19,4.4,Partly Cloudy
+2024-12-11,Kochi,30.2,55,1020,9,2.7,Clear
+2024-12-20,Jaipur,34.6,56,1010,14,10.6,Partly Cloudy
+2024-12-19,Bangalore,32.2,77,1006,19,11.9,Heavy Rain
+2024-12-18,Pune,28.0,77,1018,19,1.6,Heavy Rain
+2024-12-06,Kolkata,35.0,56,1023,16,13.6,Partly Cloudy
+2024-12-10,Hyderabad,27.0,79,1008,10,3.0,Thunderstorms
+2024-12-13,Kolkata,25.0,80,1005,14,13.5,Heavy Rain
+2024-12-03,Bangalore,32.3,80,1018,11,0.2,Thunderstorms
+2024-12-15,Kochi,21.5,66,1019,7,13.9,Rain
+2024-11-30,Mumbai,28.0,55,1014,5,2.6,Clear
+2024-12-07,Mumbai,21.1,64,1021,18,6.3,Partly Cloudy
+2024-11-29,Hyderabad,33.3,72,1025,7,2.7,Clear
+2024-12-20,Jaipur,22.1,80,1024,5,10.2,Partly Cloudy
+2024-12-28,Ahmedabad,22.4,88,1018,20,3.2,Thunderstorms
+2024-12-16,Mumbai,28.4,70,1023,9,9.0,Cloudy
+2024-12-21,Pune,30.2,70,1023,9,12.0,Rain
+2024-12-29,Mumbai,23.0,60,1016,10,8.1,Cloudy
+2024-12-02,Hyderabad,23.8,63,1025,14,5.9,Cloudy
+2024-11-29,Kolkata,28.9,75,1019,17,7.5,Rain
+2024-12-09,Bangalore,24.6,59,1007,16,0.9,Clear
+2024-12-23,Kochi,31.2,80,1013,9,0.4,Rain
+2024-12-14,Chennai,30.1,54,1014,14,5.2,Thunderstorms
+2024-12-27,Chennai,26.3,64,1012,7,2.2,Heavy Rain
+2024-12-19,Pune,34.0,56,1005,6,7.7,Partly Cloudy
+2024-12-17,Jaipur,26.4,57,1015,18,2.8,Heavy Rain
+2024-12-12,Hyderabad,29.7,78,1007,10,12.7,Rain
+2024-12-08,Kochi,31.2,85,1019,7,4.4,Cloudy
+2024-12-13,Bangalore,25.5,71,1014,5,7.9,Partly Cloudy
+2024-12-27,Mumbai,28.7,83,1025,10,4.5,Partly Cloudy
+2024-12-15,Kochi,30.1,68,1017,9,11.4,Rain
+2024-12-06,Pune,25.4,68,1011,10,14.3,Partly Cloudy
+2024-12-24,Kolkata,32.0,58,1025,18,6.9,Cloudy
+2024-12-14,Jaipur,21.3,51,1018,5,12.2,Rain
+2024-12-29,Mumbai,21.9,88,1013,18,10.3,Heavy Rain
+2024-12-09,Pune,22.2,66,1023,11,5.4,Cloudy
+2024-12-11,Kolkata,25.6,75,1020,6,12.8,Clear
+2024-11-30,Jaipur,25.5,53,1021,18,3.4,Thunderstorms
+2024-12-21,Bangalore,28.4,74,1013,17,10.0,Clear
+2024-12-17,Chennai,32.8,69,1009,17,6.1,Cloudy
+2024-11-29,Mumbai,31.9,57,1019,11,4.4,Rain
+2024-12-25,Kolkata,33.5,58,1021,10,2.5,Heavy Rain
+2024-12-11,Mumbai,23.0,87,1014,10,12.1,Clear
+2024-12-24,Kolkata,26.3,73,1019,10,8.9,Rain
+2024-12-05,Pune,21.7,50,1012,13,14.4,Thunderstorms
+2024-11-30,Jaipur,31.5,81,1023,7,10.4,Rain
+2024-11-29,Hyderabad,23.8,84,1011,14,12.7,Clear
+2024-12-13,Kochi,23.6,84,1006,8,9.9,Heavy Rain
+2024-12-29,Kolkata,28.4,84,1014,15,10.0,Heavy Rain
+2024-12-02,Jaipur,20.4,53,1012,9,14.9,Thunderstorms
+2024-12-28,Pune,25.4,72,1019,7,0.6,Rain
+2024-12-06,Pune,28.2,73,1007,12,4.4,Cloudy
+2024-11-30,Kochi,29.8,85,1019,11,10.9,Partly Cloudy
+2024-12-04,Bangalore,30.6,79,1010,13,11.0,Rain
+2024-12-19,Hyderabad,21.7,64,1010,10,13.0,Partly Cloudy
+2024-12-04,Ahmedabad,30.5,88,1011,16,5.1,Partly Cloudy
+2024-12-17,Kochi,21.9,87,1006,18,7.5,Cloudy
+2024-11-29,Delhi,22.8,65,1013,17,3.5,Cloudy
+2024-12-12,Ahmedabad,34.5,83,1017,13,10.0,Heavy Rain
+2024-12-03,Hyderabad,33.0,69,1021,18,9.9,Cloudy
+2024-12-02,Chennai,21.2,70,1018,9,0.7,Heavy Rain
+2024-12-22,Chennai,23.2,68,1016,17,14.2,Partly Cloudy
+2024-12-22,Kochi,24.7,70,1016,7,6.9,Clear
+2024-12-14,Bangalore,35.0,79,1009,11,3.4,Partly Cloudy
+2024-11-30,Kolkata,24.3,58,1019,20,10.8,Partly Cloudy
+2024-12-11,Delhi,23.7,71,1025,14,12.5,Cloudy
+2024-12-11,Pune,20.2,72,1007,17,7.5,Clear
+2024-12-04,Ahmedabad,27.0,73,1013,5,5.1,Thunderstorms
+2024-12-02,Kolkata,20.1,54,1005,18,13.0,Heavy Rain
+2024-12-23,Chennai,27.0,62,1011,11,11.3,Heavy Rain
+2024-12-21,Delhi,27.3,58,1015,10,3.8,Clear
+2024-12-06,Kolkata,21.3,84,1012,10,14.1,Clear
+2024-12-18,Delhi,25.9,53,1017,14,10.3,Rain
+2024-12-23,Pune,30.4,69,1013,15,4.9,Thunderstorms
+2024-12-19,Hyderabad,32.5,88,1005,5,1.6,Clear
+2024-12-06,Hyderabad,28.4,69,1008,15,5.6,Thunderstorms
+2024-12-01,Kochi,24.5,58,1009,15,14.6,Rain
+2024-11-29,Kochi,33.7,78,1012,19,6.7,Heavy Rain
+2024-12-21,Chennai,28.7,86,1017,20,5.9,Cloudy
+2024-12-18,Pune,32.7,61,1016,12,4.8,Heavy Rain
+2024-12-08,Mumbai,26.9,77,1012,7,11.2,Cloudy
+2024-12-27,Chennai,31.1,66,1013,14,9.4,Clear
+2024-12-11,Kolkata,32.3,72,1005,18,12.1,Cloudy
+2024-12-11,Bangalore,31.2,80,1020,16,14.4,Thunderstorms
+2024-12-17,Chennai,33.3,60,1006,19,0.2,Cloudy
+2024-12-23,Jaipur,33.0,54,1008,18,1.1,Heavy Rain
+2024-12-28,Delhi,28.7,90,1009,13,7.8,Clear
+2024-12-10,Jaipur,23.0,62,1005,5,14.9,Heavy Rain
+2024-12-16,Mumbai,29.5,64,1016,6,12.4,Clear
+2024-12-03,Ahmedabad,28.0,86,1022,19,13.5,Thunderstorms
+2024-12-17,Delhi,33.3,70,1010,6,9.8,Clear
+2024-12-25,Delhi,24.9,60,1005,7,6.6,Partly Cloudy
+2024-12-05,Ahmedabad,21.9,62,1016,5,12.8,Heavy Rain
+2024-12-11,Pune,33.3,78,1006,7,3.7,Clear
+2024-12-06,Bangalore,29.6,73,1011,5,4.6,Cloudy
+2024-12-26,Kolkata,32.8,70,1019,18,1.9,Partly Cloudy
+2024-11-30,Mumbai,27.6,66,1014,12,4.1,Rain
+2024-12-21,Pune,28.5,61,1007,18,5.8,Rain
+2024-12-04,Kolkata,31.0,54,1011,8,12.8,Thunderstorms
+2024-11-29,Chennai,26.5,61,1014,9,11.2,Clear
+2024-12-11,Jaipur,33.2,55,1012,6,9.7,Partly Cloudy
+2024-12-06,Kolkata,30.8,80,1011,11,6.2,Clear
+2024-12-09,Kolkata,28.5,66,1009,19,13.1,Thunderstorms
+2024-12-16,Kochi,23.7,63,1013,5,10.3,Cloudy
+2024-12-26,Chennai,28.1,57,1020,7,5.6,Partly Cloudy
+2024-12-15,Mumbai,22.2,69,1017,7,7.4,Cloudy
+2024-12-29,Pune,27.1,90,1023,13,9.5,Heavy Rain
+2024-12-05,Bangalore,32.1,80,1019,8,13.5,Clear
+2024-12-05,Kochi,26.2,50,1013,7,14.7,Rain
+2024-12-13,Delhi,32.5,66,1020,14,10.6,Cloudy
+2024-12-07,Ahmedabad,29.6,67,1010,9,11.4,Cloudy
+2024-12-29,Jaipur,20.3,81,1023,16,2.7,Heavy Rain
+2024-12-17,Hyderabad,32.4,69,1011,8,0.6,Rain
+2024-12-08,Kolkata,28.1,62,1020,6,13.6,Rain
+2024-12-25,Pune,24.5,62,1024,5,4.8,Clear
+2024-11-30,Pune,26.5,71,1022,9,10.8,Partly Cloudy
+2024-12-13,Mumbai,25.9,51,1013,19,2.4,Heavy Rain
+2024-12-21,Bangalore,24.2,61,1016,12,9.0,Cloudy
+2024-12-12,Mumbai,23.4,68,1008,20,8.4,Thunderstorms
+2024-12-02,Mumbai,24.5,56,1008,20,7.8,Thunderstorms
+2024-12-03,Delhi,23.0,61,1022,16,4.3,Thunderstorms
+2024-12-21,Mumbai,22.9,61,1008,18,7.9,Partly Cloudy
+2024-12-15,Mumbai,29.7,90,1019,12,7.3,Heavy Rain
+2024-12-01,Pune,20.6,89,1011,14,8.5,Cloudy
+2024-12-02,Hyderabad,22.5,60,1016,16,4.8,Partly Cloudy
+2024-11-29,Pune,25.8,53,1016,19,4.3,Partly Cloudy
+2024-12-28,Mumbai,21.9,90,1021,12,10.2,Heavy Rain
+2024-12-27,Jaipur,24.7,90,1022,18,6.7,Thunderstorms
+2024-12-09,Kolkata,31.4,71,1024,9,10.3,Thunderstorms
+2024-12-17,Jaipur,31.1,74,1020,17,2.0,Rain
+2024-12-17,Delhi,29.9,86,1021,19,11.4,Thunderstorms
+2024-12-01,Kolkata,20.6,85,1019,12,12.4,Partly Cloudy
+2024-12-02,Mumbai,25.6,75,1016,15,5.0,Heavy Rain
+2024-12-06,Hyderabad,34.5,72,1025,16,14.5,Heavy Rain
+2024-12-29,Bangalore,23.5,85,1013,8,12.8,Rain
+2024-12-05,Kochi,32.7,64,1017,8,8.1,Cloudy
+2024-12-13,Kochi,21.7,86,1012,5,8.2,Partly Cloudy
+2024-11-30,Ahmedabad,20.8,78,1017,12,11.3,Clear
+2024-12-29,Pune,32.8,79,1014,10,11.7,Heavy Rain
+2024-12-03,Kochi,26.3,85,1025,15,12.7,Clear
+2024-11-30,Ahmedabad,20.4,64,1017,6,7.2,Partly Cloudy
+2024-12-27,Kolkata,34.4,60,1020,20,7.9,Thunderstorms
+2024-12-26,Ahmedabad,34.0,60,1015,6,10.8,Partly Cloudy
+2024-12-19,Pune,30.6,67,1021,13,9.1,Heavy Rain
+2024-12-01,Ahmedabad,24.2,57,1016,10,4.3,Heavy Rain
+2024-12-17,Chennai,22.4,89,1015,7,11.7,Cloudy
+2024-12-15,Kochi,25.2,69,1014,12,14.5,Thunderstorms
+2024-12-29,Pune,29.2,86,1017,13,5.3,Thunderstorms
+2024-11-30,Kolkata,34.1,80,1007,7,0.9,Clear
+2024-12-18,Chennai,33.1,52,1008,16,9.9,Thunderstorms
+2024-12-17,Hyderabad,27.8,51,1018,5,3.3,Partly Cloudy
+2024-12-27,Mumbai,24.1,80,1019,9,0.7,Partly Cloudy
+2024-12-11,Kochi,23.8,61,1006,10,11.1,Rain
+2024-12-17,Chennai,29.7,59,1020,14,1.0,Cloudy
+2024-12-20,Pune,22.9,68,1020,10,12.4,Heavy Rain
+2024-12-27,Chennai,32.7,70,1016,19,9.5,Partly Cloudy
+2024-12-23,Delhi,33.7,90,1014,6,9.7,Thunderstorms
+2024-12-28,Bangalore,23.3,54,1005,5,2.8,Rain
+2024-12-25,Pune,26.1,69,1007,8,13.8,Partly Cloudy
+2024-12-01,Jaipur,28.0,74,1005,18,1.0,Thunderstorms
+2024-11-29,Mumbai,33.4,83,1025,11,10.0,Rain
+2024-12-18,Chennai,21.2,76,1012,14,14.8,Cloudy
+2024-12-26,Jaipur,32.3,57,1014,5,11.8,Rain
+2024-12-29,Ahmedabad,27.2,86,1016,10,12.2,Partly Cloudy
+2024-12-26,Hyderabad,25.3,56,1021,6,8.2,Thunderstorms
+2024-12-16,Delhi,30.1,89,1021,10,12.6,Thunderstorms
+2024-12-06,Ahmedabad,27.1,69,1019,18,6.2,Partly Cloudy
+2024-12-16,Hyderabad,21.4,65,1018,20,14.2,Clear
+2024-12-07,Kochi,26.4,62,1012,18,8.4,Clear
+2024-12-14,Hyderabad,30.2,63,1014,9,7.8,Partly Cloudy
+2024-12-08,Bangalore,29.5,70,1025,10,6.5,Thunderstorms
+2024-12-16,Kochi,32.2,90,1023,17,4.3,Clear
+2024-12-23,Mumbai,28.8,85,1006,7,3.1,Clear
+2024-12-08,Mumbai,28.7,50,1005,11,11.6,Thunderstorms
+2024-12-19,Chennai,23.2,86,1009,7,0.1,Clear
+2024-12-19,Hyderabad,34.8,58,1014,8,4.6,Cloudy
+2024-12-28,Ahmedabad,26.8,87,1010,10,9.1,Partly Cloudy
+2024-12-29,Bangalore,31.8,85,1010,11,1.8,Cloudy
+2024-12-20,Chennai,23.7,70,1005,11,1.1,Thunderstorms
+2024-12-23,Chennai,31.9,73,1013,7,1.7,Heavy Rain
+2024-12-06,Delhi,22.6,54,1025,5,0.6,Heavy Rain
+2024-12-07,Mumbai,29.3,71,1016,17,14.1,Clear
+2024-12-14,Delhi,27.0,74,1013,12,13.0,Heavy Rain
+2024-12-25,Delhi,29.2,78,1006,6,5.3,Clear
+2024-12-05,Ahmedabad,26.5,67,1023,10,0.9,Partly Cloudy
+2024-12-26,Delhi,22.3,88,1011,12,11.2,Heavy Rain
+2024-12-16,Kochi,26.3,57,1014,14,8.2,Clear
+2024-12-23,Mumbai,28.4,90,1008,9,9.8,Clear
+2024-11-29,Kochi,33.9,88,1022,12,7.3,Rain
+2024-12-23,Kolkata,27.3,87,1018,7,12.4,Rain
+2024-12-01,Delhi,26.3,55,1005,13,4.7,Thunderstorms
+2024-12-23,Chennai,21.9,85,1007,9,5.1,Heavy Rain
+2024-11-29,Kochi,29.8,66,1005,15,1.2,Cloudy
+2024-12-14,Kolkata,27.9,51,1021,20,5.0,Heavy Rain
+2024-12-05,Delhi,31.9,72,1014,19,0.1,Partly Cloudy
+2024-12-02,Delhi,27.9,62,1008,12,2.3,Clear
+2024-12-22,Jaipur,26.1,79,1025,11,14.1,Rain
+2024-12-05,Kochi,27.4,78,1013,19,5.1,Cloudy
+2024-12-22,Kolkata,23.1,84,1019,17,5.7,Heavy Rain
+2024-12-14,Kolkata,31.4,52,1022,12,5.2,Rain
+2024-12-21,Chennai,29.5,81,1009,13,8.3,Rain
+2024-12-12,Pune,34.7,69,1006,17,5.6,Thunderstorms
+2024-12-16,Delhi,34.6,73,1020,11,6.0,Thunderstorms
+2024-12-12,Mumbai,30.4,51,1015,17,4.3,Rain
+2024-12-08,Hyderabad,29.3,90,1009,18,8.2,Thunderstorms
+2024-12-04,Pune,29.5,54,1008,5,8.6,Cloudy
+2024-12-17,Kolkata,28.5,76,1008,19,7.4,Thunderstorms
+2024-12-29,Kochi,23.7,57,1005,7,5.4,Clear
+2024-12-10,Mumbai,23.3,72,1025,10,2.9,Clear
+2024-12-07,Kolkata,24.6,58,1020,11,9.9,Cloudy
+2024-12-26,Mumbai,20.9,65,1025,10,3.0,Partly Cloudy
+2024-12-08,Jaipur,25.2,56,1022,6,5.7,Clear
+2024-12-24,Delhi,33.7,81,1023,7,4.6,Clear
+2024-12-03,Ahmedabad,28.4,87,1014,6,1.4,Thunderstorms
+2024-12-01,Pune,33.9,83,1014,13,2.3,Thunderstorms
+2024-12-18,Chennai,24.9,87,1021,19,7.1,Heavy Rain
+2024-12-26,Bangalore,34.2,56,1021,10,0.8,Thunderstorms
+2024-12-19,Kochi,34.4,53,1013,8,13.5,Thunderstorms
+2024-12-19,Kolkata,32.9,67,1021,14,5.5,Clear
+2024-12-12,Chennai,26.4,81,1022,6,8.8,Clear
+2024-12-04,Hyderabad,25.8,56,1022,19,12.3,Thunderstorms
+2024-12-04,Hyderabad,34.1,55,1015,11,4.3,Cloudy
+2024-12-13,Mumbai,26.8,63,1008,8,3.3,Partly Cloudy
+2024-12-26,Bangalore,31.2,52,1013,7,4.7,Partly Cloudy
+2024-12-22,Delhi,33.7,67,1009,8,11.7,Cloudy
+2024-12-06,Jaipur,24.9,53,1005,13,11.2,Rain
+2024-12-20,Ahmedabad,23.2,89,1008,14,2.6,Thunderstorms
+2024-12-22,Mumbai,28.1,81,1022,10,5.5,Cloudy
+2024-12-18,Mumbai,24.3,52,1014,16,13.5,Partly Cloudy
+2024-12-01,Kochi,26.3,89,1025,5,14.1,Partly Cloudy
+2024-12-01,Chennai,29.3,79,1019,7,8.1,Clear
+2024-12-14,Delhi,24.4,84,1013,12,3.0,Clear
+2024-12-14,Jaipur,34.4,88,1013,9,2.1,Heavy Rain
+2024-12-24,Chennai,33.5,58,1011,15,12.9,Thunderstorms
+2024-12-29,Ahmedabad,31.6,50,1006,17,2.4,Thunderstorms
+2024-12-05,Delhi,29.6,51,1022,5,1.4,Heavy Rain
+2024-12-15,Chennai,34.6,51,1006,14,0.0,Partly Cloudy
+2024-11-29,Kochi,32.2,61,1010,6,8.7,Thunderstorms
+2024-12-22,Kolkata,32.8,78,1011,5,7.7,Partly Cloudy
+2024-12-02,Jaipur,32.8,85,1024,11,10.8,Partly Cloudy
+2024-12-15,Kolkata,24.7,72,1023,18,11.2,Rain
+2024-12-15,Jaipur,24.1,72,1005,9,10.0,Rain
+2024-12-10,Kolkata,23.7,85,1025,5,11.1,Partly Cloudy
+2024-12-26,Kolkata,31.2,65,1018,6,5.2,Cloudy
+2024-12-21,Kochi,31.3,86,1021,13,4.7,Cloudy
+2024-11-29,Bangalore,21.7,82,1022,11,11.2,Heavy Rain
+2024-12-29,Kolkata,30.9,66,1005,19,1.6,Heavy Rain
+2024-12-15,Bangalore,21.0,62,1012,15,3.6,Rain
+2024-12-09,Kolkata,20.0,88,1006,15,6.3,Rain
+2024-12-17,Kochi,20.4,50,1007,12,0.7,Thunderstorms
+2024-12-21,Jaipur,28.4,78,1019,10,0.9,Cloudy
+2024-12-05,Ahmedabad,23.9,88,1024,8,3.2,Partly Cloudy
+2024-12-23,Ahmedabad,31.1,87,1016,7,14.6,Heavy Rain
+2024-12-28,Mumbai,31.6,89,1011,19,10.3,Cloudy
+2024-12-05,Pune,23.8,69,1023,17,14.7,Heavy Rain
+2024-12-18,Hyderabad,32.7,53,1021,20,12.3,Clear
+2024-12-22,Jaipur,23.2,63,1010,16,14.5,Cloudy
+2024-12-22,Chennai,22.4,61,1025,11,8.1,Clear
+2024-12-04,Kochi,26.3,70,1020,12,5.6,Heavy Rain
+2024-12-24,Delhi,21.4,58,1014,10,7.3,Clear
+2024-12-02,Chennai,29.1,83,1006,8,14.7,Rain
+2024-12-03,Delhi,24.3,67,1019,11,4.1,Clear
+2024-12-05,Delhi,26.2,81,1012,18,14.1,Thunderstorms
+2024-12-16,Mumbai,20.2,62,1007,18,3.3,Clear
+2024-11-30,Bangalore,23.8,79,1021,9,9.7,Heavy Rain
+2024-12-03,Kolkata,31.0,74,1020,15,8.2,Partly Cloudy
+2024-12-26,Kolkata,24.1,85,1022,19,2.9,Clear
+2024-12-28,Hyderabad,32.6,67,1017,16,7.6,Heavy Rain
+2024-12-07,Hyderabad,31.8,89,1007,8,10.9,Clear
+2024-12-21,Kochi,24.2,61,1024,17,11.6,Clear
+2024-12-16,Mumbai,31.7,70,1021,14,9.5,Rain
+2024-12-20,Chennai,33.2,68,1018,18,1.3,Thunderstorms
+2024-11-29,Delhi,23.8,54,1019,6,4.0,Partly Cloudy
+2024-12-26,Mumbai,28.1,60,1010,5,2.8,Rain
+2024-12-11,Jaipur,25.1,74,1022,13,8.4,Clear
+2024-12-03,Jaipur,33.7,50,1024,18,13.3,Rain
+2024-12-03,Kolkata,28.3,51,1018,6,1.7,Heavy Rain
+2024-12-04,Hyderabad,34.5,65,1011,7,10.3,Partly Cloudy
+2024-12-20,Bangalore,21.8,72,1023,12,6.3,Rain
+2024-12-16,Kolkata,21.4,86,1012,14,8.4,Clear
+2024-12-02,Hyderabad,24.7,81,1016,10,10.6,Rain
+2024-12-15,Jaipur,24.8,88,1025,20,2.3,Partly Cloudy
+2024-12-16,Kolkata,33.6,57,1011,6,2.7,Partly Cloudy
+2024-12-11,Mumbai,23.5,76,1023,20,3.8,Cloudy
+2024-12-05,Kolkata,32.8,85,1006,9,7.0,Heavy Rain
+2024-12-29,Kolkata,28.3,61,1019,5,13.6,Heavy Rain
+2024-12-08,Pune,20.6,52,1014,10,2.1,Rain
+2024-12-05,Delhi,28.0,55,1024,16,1.4,Partly Cloudy
+2024-12-21,Hyderabad,20.6,51,1021,5,12.6,Cloudy
+2024-12-26,Bangalore,33.9,56,1015,8,5.6,Thunderstorms
+2024-12-18,Jaipur,24.5,70,1022,11,10.3,Partly Cloudy
+2024-11-30,Hyderabad,29.5,66,1025,12,13.0,Heavy Rain
+2024-12-07,Delhi,22.8,75,1015,16,8.8,Rain
+2024-12-28,Bangalore,28.6,72,1022,11,1.5,Partly Cloudy
+2024-12-22,Chennai,26.6,74,1017,19,1.0,Partly Cloudy
+2024-12-27,Bangalore,34.2,67,1016,11,0.5,Partly Cloudy
+2024-12-22,Chennai,20.7,53,1017,13,11.9,Partly Cloudy
+2024-12-12,Delhi,34.1,50,1023,15,5.5,Cloudy
+2024-11-29,Ahmedabad,28.7,73,1005,20,8.8,Heavy Rain
+2024-12-19,Chennai,23.1,54,1013,9,12.3,Partly Cloudy
+2024-11-30,Jaipur,21.2,88,1025,17,6.9,Heavy Rain
+2024-12-19,Ahmedabad,21.8,85,1023,13,11.2,Thunderstorms
+2024-12-23,Kolkata,21.9,89,1013,13,13.8,Heavy Rain
+2024-12-03,Pune,33.8,58,1009,17,13.2,Partly Cloudy
+2024-12-15,Jaipur,31.9,56,1023,11,12.6,Partly Cloudy
+2024-12-02,Bangalore,20.8,57,1012,8,10.3,Partly Cloudy
+2024-12-20,Chennai,30.0,53,1018,10,0.8,Thunderstorms
+2024-12-07,Mumbai,28.0,84,1005,8,8.8,Heavy Rain
+2024-12-20,Hyderabad,21.0,66,1010,14,11.7,Thunderstorms
+2024-12-19,Mumbai,29.0,77,1016,11,0.1,Rain
+2024-12-05,Mumbai,34.5,80,1019,15,12.7,Partly Cloudy
+2024-11-30,Hyderabad,23.4,84,1011,8,5.9,Clear
+2024-12-10,Delhi,29.7,87,1012,15,11.7,Heavy Rain
+2024-12-23,Mumbai,24.1,86,1016,11,6.5,Heavy Rain
+2024-12-21,Kochi,29.4,53,1005,9,0.7,Heavy Rain
+2024-11-29,Bangalore,20.0,74,1007,13,5.3,Rain
+2024-11-30,Hyderabad,34.3,75,1023,11,8.5,Rain
+2024-12-06,Delhi,29.1,53,1018,13,4.3,Cloudy
+2024-12-11,Pune,25.7,64,1010,12,3.6,Thunderstorms
+2024-12-24,Bangalore,24.3,87,1008,8,9.2,Clear
+2024-12-25,Chennai,20.6,86,1010,10,3.4,Rain
+2024-12-14,Bangalore,34.5,74,1009,17,12.7,Heavy Rain
+2024-12-06,Bangalore,22.3,63,1024,18,8.8,Heavy Rain
+2024-12-14,Hyderabad,21.9,87,1010,14,8.2,Rain
+2024-12-19,Hyderabad,20.8,70,1021,6,3.3,Heavy Rain
+2024-12-08,Bangalore,27.4,73,1020,18,10.6,Heavy Rain
+2024-11-29,Hyderabad,34.6,85,1012,10,5.4,Thunderstorms
+2024-12-24,Kochi,23.4,78,1006,14,5.6,Partly Cloudy
+2024-12-10,Chennai,33.5,60,1007,7,8.5,Heavy Rain
+2024-12-23,Hyderabad,22.5,52,1011,9,10.8,Clear
+2024-12-25,Chennai,21.0,70,1006,9,6.1,Thunderstorms
+2024-12-28,Pune,31.5,67,1025,5,7.1,Heavy Rain
+2024-12-19,Pune,32.6,89,1012,13,2.0,Clear
+2024-12-03,Hyderabad,28.6,79,1016,16,5.0,Partly Cloudy
+2024-11-30,Mumbai,24.9,61,1015,10,12.8,Cloudy
+2024-12-17,Chennai,26.2,66,1022,8,6.2,Heavy Rain
+2024-12-26,Chennai,29.7,61,1019,17,2.7,Thunderstorms
+2024-12-25,Hyderabad,29.6,77,1020,17,0.8,Thunderstorms
+2024-12-25,Delhi,27.3,50,1011,20,3.3,Partly Cloudy
+2024-11-30,Jaipur,27.7,74,1011,6,6.4,Thunderstorms
+2024-12-24,Chennai,20.4,76,1005,14,13.1,Rain
+2024-12-11,Kolkata,31.2,63,1011,10,7.2,Cloudy
+2024-12-01,Kochi,28.1,83,1009,8,6.7,Clear
+2024-12-18,Delhi,21.9,85,1024,5,10.6,Cloudy
+2024-11-30,Kochi,24.2,66,1018,7,12.6,Thunderstorms
+2024-12-06,Bangalore,21.8,79,1018,7,12.0,Cloudy
+2024-12-21,Chennai,25.5,70,1020,5,11.6,Clear
+2024-12-06,Delhi,26.0,74,1019,14,4.6,Cloudy
+2024-12-29,Delhi,25.6,78,1018,10,2.0,Rain
+2024-12-03,Kolkata,26.3,80,1008,5,0.5,Cloudy
+2024-12-16,Ahmedabad,27.0,79,1012,6,9.3,Thunderstorms
+2024-12-14,Bangalore,23.8,60,1023,13,4.3,Rain
+2024-12-23,Kochi,30.1,73,1011,7,9.5,Thunderstorms
+2024-12-22,Kochi,28.6,53,1014,7,6.9,Partly Cloudy
+2024-12-28,Ahmedabad,25.3,72,1022,20,3.9,Partly Cloudy
+2024-12-03,Pune,20.6,81,1007,10,5.7,Rain
+2024-12-24,Pune,26.7,74,1008,13,0.1,Cloudy
+2024-12-14,Pune,27.7,69,1007,9,7.4,Heavy Rain
+2024-12-18,Mumbai,26.6,80,1008,6,9.6,Partly Cloudy
+2024-11-29,Pune,28.5,62,1009,12,13.2,Rain
+2024-12-07,Chennai,29.6,52,1005,6,14.1,Cloudy
+2024-12-25,Bangalore,25.8,86,1014,11,10.9,Partly Cloudy
+2024-12-17,Ahmedabad,30.0,67,1012,15,7.1,Heavy Rain
+2024-12-21,Delhi,30.2,53,1008,11,8.8,Partly Cloudy
+2024-11-29,Kolkata,27.8,56,1024,9,12.7,Rain
+2024-12-28,Mumbai,34.9,70,1018,5,13.2,Heavy Rain
+2024-12-07,Bangalore,31.4,82,1020,8,13.3,Rain
+2024-12-07,Delhi,29.8,85,1006,6,6.9,Thunderstorms
+2024-12-24,Ahmedabad,26.8,73,1016,10,5.1,Heavy Rain
+2024-12-26,Mumbai,34.8,63,1013,13,4.2,Clear
+2024-12-17,Jaipur,24.3,56,1020,13,10.5,Clear
+2024-12-13,Jaipur,28.2,57,1007,5,10.9,Heavy Rain
+2024-12-19,Kochi,22.7,63,1008,7,12.5,Thunderstorms
+2024-12-16,Jaipur,24.2,79,1012,17,11.6,Thunderstorms
+2024-12-28,Mumbai,27.2,73,1025,8,1.2,Cloudy
+2024-12-08,Hyderabad,20.8,60,1006,18,14.7,Heavy Rain
+2024-12-22,Delhi,28.8,84,1012,10,7.4,Rain
+2024-12-14,Pune,25.9,72,1021,12,6.0,Heavy Rain
+2024-12-16,Chennai,24.1,62,1020,12,7.6,Partly Cloudy
+2024-12-18,Chennai,27.9,79,1012,11,2.6,Clear
+2024-12-17,Pune,25.4,84,1019,13,3.6,Clear
+2024-12-03,Kochi,22.6,57,1005,12,10.2,Partly Cloudy
+2024-12-23,Hyderabad,33.4,58,1015,18,1.4,Partly Cloudy
+2024-12-22,Delhi,30.7,65,1021,16,3.3,Partly Cloudy
+2024-12-19,Jaipur,33.4,76,1009,9,6.5,Heavy Rain
+2024-12-11,Delhi,29.0,63,1010,10,14.5,Rain
+2024-12-20,Kochi,23.5,66,1015,11,9.3,Thunderstorms
+2024-11-30,Delhi,25.2,83,1014,9,1.6,Thunderstorms
+2024-12-17,Hyderabad,33.9,80,1006,7,5.2,Cloudy
+2024-12-14,Delhi,34.7,57,1016,10,9.2,Clear
+2024-12-01,Ahmedabad,29.8,58,1020,5,14.1,Clear
+2024-12-03,Chennai,23.2,90,1008,10,2.8,Heavy Rain
+2024-12-13,Mumbai,33.2,56,1021,8,2.9,Thunderstorms
+2024-12-25,Pune,20.6,85,1015,18,4.7,Rain
+2024-12-02,Pune,31.8,69,1021,6,3.3,Rain
+2024-12-22,Kochi,29.3,61,1012,17,8.4,Heavy Rain
+2024-12-12,Delhi,25.1,58,1007,14,6.5,Partly Cloudy
+2024-12-18,Hyderabad,31.8,77,1018,18,3.6,Clear
+2024-12-06,Hyderabad,32.6,80,1010,14,12.2,Rain
+2024-11-30,Chennai,31.7,83,1010,11,6.5,Partly Cloudy
+2024-12-18,Jaipur,24.6,60,1008,17,14.4,Clear
+2024-12-12,Ahmedabad,31.9,87,1009,17,12.6,Heavy Rain
+2024-12-05,Bangalore,26.7,85,1017,16,0.4,Rain
+2024-12-09,Delhi,29.0,83,1024,5,12.4,Cloudy
+2024-12-21,Chennai,34.3,72,1009,6,10.7,Rain
+2024-12-20,Ahmedabad,28.1,66,1015,20,7.6,Cloudy
+2024-12-07,Pune,24.2,85,1005,12,3.0,Thunderstorms
+2024-12-03,Mumbai,34.4,57,1024,7,13.9,Clear
+2024-12-06,Bangalore,22.7,89,1018,8,14.7,Heavy Rain
+2024-12-27,Hyderabad,32.2,58,1014,12,9.8,Cloudy
+2024-12-27,Mumbai,21.8,52,1025,15,3.1,Thunderstorms
+2024-12-11,Pune,24.2,81,1016,7,2.3,Partly Cloudy
+2024-12-26,Chennai,26.4,68,1012,8,2.7,Cloudy
+2024-12-05,Kochi,24.4,55,1017,8,12.7,Clear
+2024-12-27,Ahmedabad,24.2,68,1013,7,8.0,Heavy Rain
+2024-12-27,Ahmedabad,31.2,83,1016,6,5.7,Thunderstorms
+2024-12-12,Delhi,22.4,69,1019,9,0.3,Cloudy
+2024-12-06,Delhi,22.3,58,1010,12,9.6,Heavy Rain
+2024-12-14,Kochi,29.0,65,1012,9,9.7,Cloudy
+2024-12-19,Hyderabad,33.6,89,1022,8,1.6,Thunderstorms
+2024-12-21,Bangalore,22.1,57,1022,5,8.2,Heavy Rain
+2024-11-30,Kochi,24.2,55,1023,10,9.3,Clear
+2024-12-22,Jaipur,21.5,60,1010,10,13.5,Partly Cloudy
+2024-12-05,Mumbai,28.5,70,1006,5,12.8,Rain
+2024-12-20,Kolkata,23.2,57,1024,12,8.3,Heavy Rain
+2024-12-28,Jaipur,33.0,71,1017,13,2.4,Partly Cloudy
+2024-12-18,Hyderabad,23.8,73,1012,7,8.5,Thunderstorms
+2024-12-27,Ahmedabad,20.6,83,1016,13,5.7,Cloudy
+2024-12-16,Bangalore,34.9,76,1018,18,1.5,Partly Cloudy
+2024-12-15,Chennai,22.1,79,1025,8,0.4,Rain
+2024-12-17,Jaipur,28.1,64,1008,9,9.2,Partly Cloudy
+2024-12-11,Kolkata,31.8,57,1013,20,7.0,Cloudy
+2024-12-08,Kochi,30.0,78,1013,5,2.8,Cloudy
+2024-12-04,Bangalore,33.2,72,1025,11,7.3,Heavy Rain
+2024-12-19,Chennai,32.9,78,1021,20,4.4,Cloudy
+2024-12-24,Chennai,33.9,50,1024,7,12.1,Heavy Rain
+2024-12-05,Mumbai,21.7,76,1010,10,1.7,Thunderstorms
+2024-12-03,Chennai,26.3,50,1013,6,4.8,Cloudy
+2024-12-21,Delhi,28.2,58,1008,14,5.7,Cloudy
+2024-12-28,Pune,24.7,77,1005,10,14.5,Cloudy
+2024-12-03,Jaipur,21.0,63,1018,15,6.7,Partly Cloudy
+2024-12-11,Jaipur,20.9,54,1015,18,14.8,Heavy Rain
+2024-12-17,Kochi,30.8,52,1015,17,8.4,Thunderstorms
+2024-12-25,Chennai,23.7,64,1022,16,3.9,Thunderstorms
+2024-12-25,Mumbai,33.1,84,1017,13,14.6,Rain
+2024-12-19,Jaipur,33.1,71,1011,15,4.5,Thunderstorms
+2024-12-27,Pune,35.0,74,1019,7,10.9,Rain
+2024-12-08,Jaipur,30.6,68,1025,15,7.1,Heavy Rain
+2024-12-14,Mumbai,32.5,90,1012,10,4.9,Thunderstorms
+2024-12-23,Chennai,20.9,64,1017,19,13.9,Cloudy
+2024-12-05,Chennai,23.4,58,1023,15,0.1,Thunderstorms
+2024-12-14,Ahmedabad,21.0,50,1023,17,3.6,Cloudy
+2024-11-29,Kolkata,33.0,75,1015,15,1.6,Clear
+2024-12-17,Delhi,21.9,79,1022,16,14.6,Cloudy
+2024-12-26,Mumbai,20.8,71,1017,10,2.5,Heavy Rain
+2024-12-28,Hyderabad,28.7,69,1005,12,4.7,Thunderstorms
+2024-12-03,Bangalore,22.5,59,1013,19,5.1,Heavy Rain
+2024-12-01,Kolkata,20.1,76,1014,10,14.1,Rain
+2024-12-27,Delhi,29.2,89,1013,7,4.3,Rain
+2024-12-28,Jaipur,23.3,53,1019,13,9.7,Thunderstorms
+2024-12-23,Mumbai,22.9,51,1018,14,7.6,Cloudy
+2024-11-29,Bangalore,25.6,72,1018,5,9.1,Cloudy
+2024-12-17,Mumbai,24.3,67,1015,5,1.2,Rain
+2024-12-26,Kochi,23.2,58,1009,20,13.5,Clear
+2024-12-15,Delhi,26.6,54,1016,5,5.1,Rain
+2024-12-23,Delhi,30.0,71,1011,18,5.9,Rain
+2024-12-18,Delhi,28.6,64,1019,10,4.5,Rain
+2024-12-21,Kochi,31.7,62,1018,17,6.1,Thunderstorms
+2024-12-19,Kochi,23.4,51,1022,9,14.3,Heavy Rain
+2024-12-23,Hyderabad,34.3,57,1013,13,2.1,Cloudy
+2024-12-22,Pune,20.8,61,1017,8,13.1,Cloudy
+2024-12-13,Kochi,25.1,85,1012,17,10.6,Heavy Rain
+2024-12-20,Kochi,34.3,86,1016,15,11.1,Rain
+2024-12-18,Kolkata,28.1,77,1018,6,5.1,Partly Cloudy
+2024-11-29,Bangalore,25.4,55,1010,12,0.7,Cloudy
+2024-12-19,Mumbai,23.6,54,1008,12,5.2,Rain
+2024-12-25,Pune,31.8,60,1021,8,11.3,Thunderstorms
+2024-12-01,Kochi,27.3,84,1021,11,9.1,Clear
+2024-12-16,Bangalore,24.1,80,1025,17,3.6,Cloudy
+2024-12-20,Kochi,29.1,59,1015,10,1.3,Heavy Rain
+2024-12-14,Pune,23.8,70,1005,10,13.6,Rain
+2024-12-13,Hyderabad,31.4,70,1005,7,13.4,Thunderstorms
+2024-12-19,Pune,28.2,90,1016,16,4.2,Cloudy
+2024-12-05,Delhi,27.0,73,1017,5,11.5,Cloudy
+2024-12-27,Kolkata,26.9,59,1015,16,11.6,Rain
+2024-12-20,Pune,28.3,58,1022,5,11.1,Cloudy
+2024-12-22,Pune,32.7,85,1013,11,2.2,Cloudy
+2024-12-18,Mumbai,24.6,57,1009,5,13.4,Partly Cloudy
+2024-12-18,Hyderabad,22.3,78,1015,7,8.0,Thunderstorms
+2024-12-01,Delhi,31.0,85,1014,11,13.4,Heavy Rain
+2024-12-08,Chennai,34.9,59,1016,10,0.4,Rain
+2024-12-15,Mumbai,34.6,76,1010,14,6.9,Rain
+2024-12-27,Delhi,35.0,67,1013,7,6.3,Thunderstorms
+2024-12-08,Jaipur,25.0,69,1014,14,1.2,Cloudy
+2024-12-27,Kolkata,34.8,74,1017,18,4.2,Thunderstorms
+2024-12-15,Jaipur,24.8,74,1008,20,7.4,Heavy Rain
+2024-12-20,Ahmedabad,26.4,89,1005,16,10.7,Cloudy
+2024-12-03,Kochi,28.8,60,1005,15,5.5,Cloudy
+2024-12-22,Hyderabad,29.0,87,1020,13,15.0,Partly Cloudy
+2024-12-17,Mumbai,33.9,79,1025,6,9.8,Heavy Rain
+2024-12-03,Ahmedabad,33.9,58,1010,20,10.7,Cloudy
+2024-12-05,Chennai,28.3,79,1008,16,1.1,Thunderstorms
+2024-12-03,Delhi,25.3,88,1011,12,4.5,Clear
+2024-12-24,Hyderabad,21.3,61,1021,20,8.6,Rain
+2024-12-20,Jaipur,25.6,53,1011,7,6.9,Thunderstorms
+2024-12-25,Bangalore,26.0,76,1011,10,10.0,Rain
+2024-12-25,Bangalore,29.0,69,1011,5,2.8,Rain
+2024-12-11,Hyderabad,23.2,71,1016,7,8.8,Thunderstorms
+2024-12-29,Chennai,25.8,78,1007,14,4.1,Heavy Rain
+2024-12-20,Mumbai,25.9,59,1009,7,14.2,Rain
+2024-12-02,Kolkata,21.7,71,1012,13,11.2,Rain
+2024-12-11,Delhi,34.5,61,1014,19,13.5,Cloudy
+2024-12-10,Hyderabad,32.8,70,1020,14,4.1,Partly Cloudy
+2024-12-14,Hyderabad,26.4,64,1009,14,1.7,Rain
+2024-12-06,Hyderabad,20.2,57,1011,19,12.1,Heavy Rain
+2024-12-07,Chennai,32.9,62,1006,18,1.3,Heavy Rain
+2024-12-08,Pune,27.5,76,1007,9,12.8,Thunderstorms
+2024-12-25,Ahmedabad,25.9,78,1013,5,9.9,Thunderstorms
+2024-12-04,Delhi,34.7,85,1012,10,14.1,Thunderstorms
+2024-12-24,Ahmedabad,33.7,79,1022,6,5.7,Clear
+2024-12-07,Mumbai,21.7,81,1011,9,7.6,Rain
+2024-12-28,Pune,34.8,53,1018,15,2.9,Clear
+2024-12-26,Hyderabad,28.4,50,1008,18,3.7,Partly Cloudy
+2024-12-07,Pune,22.5,72,1023,15,10.7,Thunderstorms
+2024-12-09,Mumbai,20.6,78,1020,7,13.7,Heavy Rain
+2024-12-13,Bangalore,34.8,79,1011,7,4.5,Heavy Rain
+2024-12-04,Jaipur,26.1,77,1008,14,8.7,Thunderstorms
+2024-12-16,Ahmedabad,22.8,58,1009,17,4.1,Partly Cloudy
+2024-12-20,Mumbai,24.0,89,1025,13,14.1,Partly Cloudy
+2024-12-08,Mumbai,25.5,52,1022,16,9.0,Rain
+2024-11-30,Hyderabad,25.8,65,1012,16,12.2,Heavy Rain
+2024-12-24,Bangalore,33.8,64,1019,13,3.8,Thunderstorms
+2024-12-21,Kochi,24.2,72,1012,10,9.8,Heavy Rain
+2024-12-12,Hyderabad,30.0,87,1017,12,12.8,Cloudy
+2024-12-04,Chennai,27.6,63,1011,5,3.9,Heavy Rain
+2024-11-29,Kochi,22.9,64,1016,6,6.8,Cloudy
+2024-12-24,Chennai,23.4,55,1015,11,12.4,Rain
+2024-12-13,Delhi,24.3,71,1021,14,11.5,Rain
+2024-12-11,Jaipur,22.1,70,1014,15,11.8,Heavy Rain
+2024-12-10,Pune,28.3,74,1006,12,1.6,Thunderstorms
+2024-12-06,Bangalore,32.2,54,1018,13,9.9,Cloudy
+2024-12-03,Bangalore,34.5,76,1015,5,14.4,Thunderstorms
+2024-12-02,Bangalore,24.5,52,1017,16,8.7,Heavy Rain
+2024-12-04,Hyderabad,32.8,63,1012,13,7.9,Partly Cloudy
+2024-11-30,Bangalore,21.0,68,1018,14,12.1,Cloudy
+2024-12-08,Bangalore,31.9,55,1016,12,5.9,Clear
+2024-12-01,Jaipur,20.8,67,1005,9,11.9,Thunderstorms
+2024-12-10,Kochi,26.1,76,1012,20,2.1,Partly Cloudy
+2024-11-30,Bangalore,29.5,86,1011,13,14.9,Rain
+2024-12-06,Jaipur,24.4,90,1018,7,12.8,Cloudy
+2024-12-03,Mumbai,22.1,86,1020,17,7.6,Cloudy
+2024-12-17,Jaipur,30.9,56,1025,8,5.3,Rain
+2024-12-26,Chennai,34.6,77,1011,15,2.4,Thunderstorms
+2024-12-17,Kochi,25.1,67,1024,17,13.1,Rain
+2024-12-07,Kochi,20.3,84,1008,20,8.5,Cloudy
+2024-12-29,Bangalore,25.5,74,1012,13,0.7,Cloudy
+2024-12-09,Kochi,32.4,65,1019,9,4.7,Cloudy
+2024-12-06,Ahmedabad,28.0,65,1007,8,2.2,Thunderstorms
+2024-12-24,Pune,34.5,58,1022,10,11.5,Thunderstorms
+2024-12-14,Hyderabad,21.8,78,1017,10,4.8,Cloudy
+2024-12-04,Mumbai,22.4,78,1016,9,7.9,Partly Cloudy
+2024-12-01,Jaipur,25.7,63,1022,12,14.4,Thunderstorms
+2024-11-29,Mumbai,27.3,63,1010,19,2.4,Heavy Rain
+2024-12-12,Chennai,27.0,69,1011,17,2.2,Thunderstorms
+2024-12-18,Jaipur,21.4,59,1005,15,12.3,Clear
+2024-12-14,Kolkata,23.3,85,1012,7,9.0,Clear
+2024-12-18,Pune,31.4,60,1011,7,9.1,Cloudy
+2024-12-15,Jaipur,30.5,78,1006,19,14.6,Rain
+2024-12-12,Chennai,22.0,70,1019,20,6.0,Heavy Rain
+2024-12-22,Delhi,31.4,80,1020,13,12.2,Rain
+2024-12-26,Chennai,20.1,82,1009,11,11.5,Cloudy
+2024-12-07,Kolkata,24.4,60,1015,17,7.8,Rain
+2024-12-12,Ahmedabad,33.1,51,1011,17,4.0,Partly Cloudy
+2024-12-08,Pune,20.6,76,1015,7,13.8,Rain
+2024-12-13,Mumbai,21.7,64,1020,11,8.0,Rain
+2024-12-14,Bangalore,26.3,80,1005,7,1.8,Thunderstorms
+2024-12-15,Kolkata,31.5,88,1017,7,11.1,Rain
+2024-12-13,Chennai,33.9,65,1008,14,9.1,Partly Cloudy
+2024-12-18,Pune,30.0,82,1022,12,1.6,Clear
+2024-12-02,Kochi,25.7,82,1025,5,5.9,Clear
+2024-12-13,Delhi,28.9,85,1017,11,14.5,Clear
+2024-12-27,Ahmedabad,22.1,89,1017,11,10.8,Clear
+2024-12-17,Ahmedabad,25.3,58,1022,9,3.8,Rain
+2024-12-09,Jaipur,22.1,61,1014,9,9.5,Partly Cloudy
+2024-12-20,Hyderabad,31.7,76,1019,20,13.3,Clear
+2024-12-05,Ahmedabad,21.2,64,1025,16,2.7,Partly Cloudy
+2024-12-29,Kolkata,29.2,73,1014,15,13.9,Rain
+2024-12-02,Kolkata,30.4,63,1017,12,10.0,Heavy Rain
+2024-12-10,Mumbai,22.2,59,1007,13,4.3,Clear
+2024-12-25,Delhi,24.7,69,1011,9,0.6,Heavy Rain
+2024-12-05,Delhi,22.4,78,1010,13,7.2,Rain
+2024-12-15,Kolkata,23.5,81,1020,9,4.4,Partly Cloudy
+2024-11-30,Chennai,30.1,80,1008,6,7.2,Clear
+2024-12-09,Jaipur,22.8,62,1017,10,13.4,Heavy Rain
+2024-12-19,Mumbai,33.0,86,1020,5,7.1,Cloudy
+2024-12-18,Delhi,26.4,75,1005,13,12.2,Heavy Rain
+2024-12-18,Ahmedabad,22.7,71,1011,13,4.3,Partly Cloudy
+2024-12-10,Pune,34.2,83,1005,10,15.0,Heavy Rain
+2024-12-07,Kolkata,24.8,50,1011,10,3.9,Heavy Rain
+2024-11-29,Hyderabad,30.2,57,1018,19,13.5,Thunderstorms
+2024-12-05,Kochi,27.7,75,1025,5,7.7,Partly Cloudy
+2024-12-08,Pune,25.4,55,1018,20,9.4,Cloudy
+2024-12-25,Chennai,25.6,50,1025,17,5.7,Rain
+2024-12-06,Delhi,26.6,65,1025,9,6.7,Cloudy
+2024-12-15,Chennai,32.0,77,1023,12,9.4,Clear
+2024-11-30,Hyderabad,27.9,53,1022,17,3.5,Heavy Rain
+2024-12-08,Jaipur,29.7,76,1013,9,3.1,Cloudy
+2024-12-02,Jaipur,27.8,54,1010,10,4.5,Heavy Rain
+2024-11-30,Kolkata,28.0,88,1013,17,1.5,Rain
+2024-12-03,Kolkata,22.7,64,1005,17,3.6,Thunderstorms
+2024-12-22,Kolkata,34.7,55,1019,9,9.7,Heavy Rain
+2024-12-10,Pune,26.0,70,1011,7,11.4,Thunderstorms
+2024-12-02,Ahmedabad,32.8,86,1014,5,3.0,Cloudy
+2024-12-02,Ahmedabad,30.4,87,1024,7,10.5,Thunderstorms
+2024-12-17,Hyderabad,23.6,75,1017,10,10.8,Heavy Rain
+2024-12-01,Bangalore,25.4,65,1023,16,13.6,Clear
+2024-11-30,Kolkata,30.1,75,1017,5,12.6,Clear
+2024-12-21,Ahmedabad,23.5,81,1018,17,8.8,Clear
+2024-12-12,Chennai,31.8,78,1017,15,10.8,Partly Cloudy
+2024-12-19,Hyderabad,27.7,89,1024,17,9.1,Clear
+2024-12-08,Mumbai,28.8,65,1017,12,7.4,Cloudy
+2024-12-01,Mumbai,32.8,60,1025,11,5.8,Heavy Rain
+2024-12-23,Ahmedabad,20.1,83,1014,16,4.3,Partly Cloudy
+2024-12-07,Kolkata,22.0,69,1020,19,7.0,Partly Cloudy
+2024-11-30,Kolkata,26.4,74,1016,8,0.6,Partly Cloudy
+2024-12-26,Hyderabad,22.7,83,1019,15,12.2,Thunderstorms
+2024-11-30,Kolkata,33.4,85,1014,17,9.7,Heavy Rain
+2024-12-13,Hyderabad,30.0,61,1024,11,5.6,Cloudy
+2024-12-13,Kochi,24.4,59,1025,7,9.0,Rain
+2024-12-05,Pune,27.4,73,1010,20,4.3,Partly Cloudy
+2024-11-29,Chennai,25.1,88,1022,12,13.6,Heavy Rain
+2024-12-20,Delhi,32.6,63,1014,7,9.9,Heavy Rain
+2024-12-08,Pune,34.8,73,1015,18,10.6,Thunderstorms
+2024-12-14,Chennai,32.2,80,1006,19,8.2,Rain
+2024-12-21,Chennai,27.3,61,1005,14,3.4,Heavy Rain
+2024-12-19,Delhi,23.1,67,1012,7,14.2,Partly Cloudy
+2024-12-10,Kolkata,34.8,77,1006,20,8.5,Rain
+2024-12-10,Chennai,32.0,57,1010,9,3.1,Cloudy
+2024-12-29,Kolkata,28.8,52,1011,6,6.4,Cloudy
+2024-12-07,Delhi,31.8,51,1024,15,13.2,Partly Cloudy
+2024-12-13,Mumbai,30.7,75,1005,10,12.4,Rain
+2024-12-15,Pune,32.1,68,1015,19,5.8,Rain
+2024-12-21,Jaipur,34.9,79,1009,18,9.2,Cloudy
+2024-12-07,Pune,34.5,80,1005,9,10.4,Cloudy
+2024-12-06,Pune,26.6,56,1013,20,2.5,Cloudy
+2024-12-08,Bangalore,21.0,77,1018,12,4.4,Heavy Rain
+2024-11-29,Kochi,31.4,57,1005,15,4.5,Partly Cloudy
+2024-12-20,Mumbai,24.9,87,1022,18,13.7,Rain
+2024-12-21,Chennai,29.6,71,1023,9,10.9,Rain
+2024-12-22,Pune,28.8,64,1018,8,13.4,Thunderstorms
+2024-12-07,Bangalore,24.3,68,1023,14,3.9,Clear
+2024-12-04,Jaipur,29.5,70,1025,10,4.4,Partly Cloudy
+2024-12-02,Jaipur,23.0,54,1019,18,8.9,Clear
+2024-12-22,Delhi,32.5,65,1018,12,8.6,Heavy Rain
+2024-12-26,Pune,21.3,87,1016,9,0.5,Clear
+2024-12-28,Delhi,33.0,50,1019,15,3.7,Partly Cloudy
+2024-12-18,Ahmedabad,25.0,53,1018,18,10.4,Heavy Rain
+2024-12-18,Bangalore,27.9,64,1007,10,11.1,Clear
+2024-12-16,Delhi,23.3,78,1010,7,2.4,Rain
+2024-12-13,Ahmedabad,28.1,57,1012,10,1.9,Cloudy
+2024-12-16,Mumbai,21.7,68,1012,9,13.1,Thunderstorms
+2024-12-25,Pune,24.9,60,1008,10,0.9,Cloudy
+2024-12-15,Hyderabad,31.5,61,1015,14,10.0,Rain
+2024-11-30,Jaipur,33.1,71,1017,7,5.7,Thunderstorms
+2024-12-13,Delhi,23.9,70,1019,17,6.6,Heavy Rain
+2024-12-21,Bangalore,32.0,83,1017,9,5.6,Thunderstorms
+2024-12-10,Hyderabad,28.5,53,1013,19,12.2,Heavy Rain
+2024-12-19,Chennai,34.4,58,1005,15,6.5,Clear
+2024-12-03,Jaipur,30.8,86,1006,16,14.8,Rain
+2024-12-02,Chennai,30.3,69,1018,8,6.4,Heavy Rain
+2024-12-01,Bangalore,32.8,53,1017,15,8.8,Thunderstorms
+2024-12-02,Ahmedabad,34.9,71,1024,11,8.8,Cloudy
+2024-12-02,Pune,27.2,75,1015,11,8.4,Partly Cloudy
+2024-12-18,Pune,28.4,68,1015,9,2.7,Clear
+2024-12-23,Mumbai,21.6,52,1020,19,8.2,Thunderstorms
+2024-12-04,Hyderabad,23.3,64,1007,19,4.0,Clear
+2024-12-18,Kochi,31.9,77,1011,12,6.5,Partly Cloudy
+2024-12-22,Hyderabad,29.0,70,1019,19,8.8,Heavy Rain
+2024-12-25,Bangalore,21.1,81,1016,18,8.5,Thunderstorms
+2024-11-29,Kochi,24.4,65,1013,13,13.6,Rain
+2024-12-03,Kolkata,23.2,52,1017,18,10.9,Heavy Rain
+2024-12-18,Pune,22.7,83,1007,19,14.1,Heavy Rain
+2024-12-09,Delhi,21.8,69,1015,6,6.0,Heavy Rain
+2024-12-14,Hyderabad,20.6,80,1005,5,3.5,Heavy Rain
+2024-11-30,Ahmedabad,23.8,67,1019,13,6.8,Partly Cloudy
+2024-12-01,Hyderabad,30.2,73,1015,5,12.1,Thunderstorms
+2024-12-10,Ahmedabad,25.2,54,1019,11,1.0,Partly Cloudy
+2024-12-04,Kochi,22.2,71,1012,19,14.7,Rain
+2024-12-12,Kolkata,21.8,80,1018,5,0.6,Thunderstorms
+2024-12-19,Bangalore,22.3,53,1009,13,4.7,Cloudy
+2024-12-08,Bangalore,20.4,75,1025,9,10.7,Clear
+2024-12-28,Chennai,26.4,81,1013,10,9.2,Heavy Rain
+2024-12-04,Chennai,27.0,81,1011,7,14.8,Cloudy
+2024-12-11,Kochi,32.6,89,1025,10,0.1,Heavy Rain
+2024-12-05,Delhi,31.2,72,1023,14,6.1,Heavy Rain
+2024-12-09,Jaipur,31.1,82,1006,18,4.6,Thunderstorms
+2024-12-11,Kochi,28.1,51,1012,12,5.5,Partly Cloudy
+2024-12-24,Hyderabad,25.5,82,1022,17,4.1,Heavy Rain
+2024-12-17,Pune,30.5,90,1009,12,0.9,Cloudy
+2024-12-03,Bangalore,34.9,52,1009,5,5.8,Rain
+2024-12-11,Hyderabad,30.1,79,1021,15,0.9,Cloudy
+2024-12-27,Ahmedabad,34.5,54,1022,11,14.6,Rain
+2024-12-12,Pune,23.5,63,1019,19,4.1,Partly Cloudy
+2024-12-07,Hyderabad,26.9,50,1017,5,14.1,Clear
+2024-11-29,Pune,28.5,77,1016,7,5.8,Heavy Rain
+2024-12-17,Chennai,32.6,80,1007,19,13.0,Cloudy
+2024-11-30,Chennai,34.0,63,1020,7,10.3,Heavy Rain
+2024-12-13,Jaipur,27.7,50,1008,11,14.0,Heavy Rain
+2024-12-02,Ahmedabad,28.6,90,1025,20,11.4,Clear
+2024-12-15,Chennai,22.9,55,1009,12,10.0,Heavy Rain
+2024-12-11,Kolkata,31.1,78,1016,5,1.1,Thunderstorms
+2024-12-22,Kolkata,34.5,78,1014,8,13.8,Rain
+2024-12-03,Ahmedabad,21.6,85,1012,14,10.1,Cloudy
+2024-12-23,Pune,25.4,89,1011,15,4.7,Partly Cloudy
+2024-12-25,Ahmedabad,20.5,83,1010,19,12.9,Cloudy
+2024-12-20,Ahmedabad,23.9,66,1013,15,0.8,Clear
+2024-12-04,Kochi,25.1,71,1022,5,7.7,Clear
+2024-12-16,Kochi,34.3,76,1025,7,11.9,Partly Cloudy
+2024-12-18,Ahmedabad,26.8,80,1015,14,2.4,Partly Cloudy
+2024-11-30,Mumbai,33.2,71,1020,12,5.6,Partly Cloudy
+2024-12-13,Jaipur,26.7,77,1017,14,2.0,Rain
+2024-12-06,Pune,20.7,88,1018,20,12.2,Rain
+2024-12-10,Chennai,20.0,57,1024,16,7.1,Rain
+2024-12-01,Hyderabad,25.9,76,1014,9,1.3,Thunderstorms
+2024-12-17,Delhi,23.8,55,1019,6,14.8,Cloudy
+2024-12-07,Hyderabad,20.9,82,1013,20,13.4,Heavy Rain
+2024-12-04,Chennai,23.4,50,1022,10,3.2,Heavy Rain
+2024-12-25,Delhi,28.4,59,1008,12,10.9,Partly Cloudy
+2024-12-14,Hyderabad,23.1,82,1011,10,0.0,Thunderstorms
+2024-12-18,Pune,33.7,58,1016,5,1.9,Heavy Rain
+2024-12-14,Jaipur,28.3,81,1007,7,12.6,Clear
+2024-12-24,Bangalore,20.5,86,1021,14,1.9,Heavy Rain
+2024-12-04,Hyderabad,32.6,74,1006,19,13.0,Cloudy
+2024-12-02,Mumbai,23.6,64,1023,20,0.5,Clear
+2024-12-03,Kochi,32.3,53,1013,9,4.7,Thunderstorms
+2024-12-18,Hyderabad,32.8,69,1008,10,5.0,Heavy Rain
+2024-12-19,Chennai,29.7,56,1015,19,3.2,Heavy Rain
+2024-12-12,Pune,29.7,65,1021,14,5.9,Thunderstorms
+2024-12-28,Chennai,22.8,72,1009,7,2.8,Heavy Rain
+2024-12-09,Chennai,20.0,83,1009,13,10.1,Heavy Rain
+2024-12-11,Delhi,25.8,73,1017,17,8.2,Partly Cloudy
+2024-12-07,Pune,20.5,60,1021,12,5.1,Partly Cloudy
+2024-12-15,Bangalore,21.2,50,1023,15,10.7,Cloudy
+2024-12-28,Jaipur,29.1,57,1014,15,5.4,Thunderstorms
+2024-12-12,Kolkata,28.6,80,1014,12,12.6,Thunderstorms
+2024-12-09,Mumbai,24.7,85,1022,10,3.5,Thunderstorms
+2024-12-18,Ahmedabad,22.0,60,1013,5,1.9,Clear
+2024-12-25,Delhi,33.0,77,1010,8,8.9,Thunderstorms
+2024-12-03,Bangalore,29.7,52,1005,12,2.2,Thunderstorms
+2024-12-16,Delhi,27.2,81,1023,14,4.9,Clear
+2024-12-25,Ahmedabad,22.9,52,1025,10,13.3,Heavy Rain
+2024-12-22,Pune,20.0,73,1015,9,2.7,Cloudy
+2024-12-27,Chennai,29.6,78,1020,7,8.3,Rain
+2024-12-07,Hyderabad,31.8,90,1015,8,6.8,Partly Cloudy
+2024-12-24,Hyderabad,23.7,50,1023,19,1.8,Thunderstorms
+2024-12-12,Chennai,25.4,85,1022,12,4.3,Thunderstorms
+2024-12-11,Mumbai,34.0,60,1016,11,14.4,Heavy Rain
+2024-12-22,Kolkata,28.8,50,1017,13,3.7,Cloudy
+2024-12-22,Bangalore,22.1,84,1012,13,2.8,Clear
+2024-12-01,Ahmedabad,27.4,65,1021,12,12.2,Thunderstorms
+2024-12-06,Mumbai,28.3,61,1025,5,5.1,Heavy Rain
+2024-12-20,Hyderabad,29.5,66,1008,19,10.8,Partly Cloudy
+2024-12-11,Jaipur,33.5,82,1023,8,7.1,Partly Cloudy
+2024-12-03,Kolkata,26.6,55,1005,6,3.7,Clear
+2024-12-18,Bangalore,32.1,67,1008,17,5.1,Thunderstorms
+2024-12-03,Kochi,31.1,58,1016,19,7.5,Thunderstorms
+2024-12-14,Mumbai,22.1,56,1022,20,9.4,Thunderstorms
+2024-12-23,Chennai,30.7,89,1011,18,9.3,Thunderstorms
+2024-12-02,Ahmedabad,28.5,78,1022,18,0.2,Partly Cloudy
+2024-12-17,Pune,29.8,63,1019,10,5.6,Heavy Rain
+2024-12-16,Pune,29.1,80,1024,13,0.2,Thunderstorms
+2024-12-10,Ahmedabad,21.4,70,1023,17,6.2,Clear
+2024-12-10,Pune,28.6,51,1010,14,12.5,Cloudy
+2024-12-03,Hyderabad,20.8,71,1011,19,1.6,Cloudy
+2024-12-28,Delhi,31.4,51,1011,10,6.4,Cloudy
+2024-12-01,Kochi,33.7,78,1013,14,0.9,Clear
+2024-12-12,Ahmedabad,21.3,79,1007,18,7.2,Clear
+2024-12-05,Chennai,30.7,60,1008,7,5.2,Cloudy
+2024-12-29,Kolkata,26.4,77,1013,14,7.6,Partly Cloudy
+2024-12-21,Chennai,28.0,61,1016,20,8.6,Rain
+2024-12-05,Ahmedabad,31.6,53,1010,14,13.8,Clear
+2024-12-10,Mumbai,25.9,67,1007,8,2.9,Thunderstorms
+2024-12-26,Kolkata,32.7,53,1017,12,13.1,Partly Cloudy
+2024-12-24,Pune,25.0,56,1022,5,13.0,Cloudy
+2024-12-16,Jaipur,27.2,83,1013,13,7.2,Rain
+2024-12-10,Jaipur,22.5,58,1009,20,12.1,Partly Cloudy
+2024-12-08,Delhi,25.4,80,1010,17,4.0,Cloudy
+2024-11-30,Delhi,28.7,73,1016,9,13.5,Thunderstorms
+2024-12-06,Jaipur,24.5,90,1012,15,7.7,Clear
+2024-12-10,Delhi,27.3,50,1014,6,7.3,Cloudy
+2024-12-08,Pune,31.5,59,1016,8,9.3,Clear
+2024-12-27,Delhi,29.2,78,1008,8,14.4,Heavy Rain
+2024-12-07,Delhi,20.3,62,1020,14,10.9,Heavy Rain
+2024-12-22,Pune,34.3,55,1008,13,12.5,Partly Cloudy
+2024-12-06,Jaipur,29.2,72,1009,5,11.4,Heavy Rain
+2024-12-10,Delhi,32.9,81,1024,11,1.0,Rain
+2024-12-28,Hyderabad,25.7,69,1023,14,2.7,Clear
+2024-12-07,Delhi,24.3,56,1023,17,11.6,Rain
+2024-12-03,Jaipur,32.6,69,1024,15,8.2,Heavy Rain
+2024-12-22,Jaipur,20.4,84,1018,5,0.6,Thunderstorms
+2024-12-08,Bangalore,22.8,63,1018,17,4.5,Clear
+2024-12-06,Pune,26.4,59,1023,6,12.7,Partly Cloudy
+2024-12-26,Kochi,22.7,64,1022,18,13.6,Rain
+2024-12-05,Jaipur,25.0,68,1014,5,12.8,Cloudy
+2024-12-15,Chennai,27.6,86,1018,9,1.2,Clear
+2024-12-05,Jaipur,28.9,86,1005,16,1.7,Thunderstorms
+2024-11-30,Ahmedabad,21.4,58,1022,7,3.1,Heavy Rain
